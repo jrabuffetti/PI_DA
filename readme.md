@@ -43,6 +43,7 @@ Hemos propuesto 3 KPIs para mostrar algunos sectores especificos y ver si se pud
 
 En el primer KPI se notó que no solo se cumplió, sino que se superó el objetivo por casi el doble, reduciendo los homicidios en casi un 20% con respecto al semestre anterior
 
+Se propone continuar con las medidas que se estan realizando, y seguir disminuyendo este numero
 
 * **Segundo KPI:** Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior.
 
