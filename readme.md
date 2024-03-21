@@ -56,9 +56,9 @@ Se propone continuar con las medidas que se estan realizando, y seguir disminuye
 Para esto proponemos que se continuen los esfuerzos por reducirlo y ver las mediciones en el siguiente año, para poder observar realmente cual es el cambio sin que esté el sesgo de haber pasado por una cuarentena.
 
 Se sugiere: 
-* Hacer mas controles a las motocicletas, multas por no usar casco y aumentar las señalizaciones
+- Hacer mas controles a las motocicletas, multas por no usar casco y aumentar las señalizaciones
 
-* Hacer una campaña para concientizar a los otros conductores a prestar atencion a las motocicletas, para evitar accidentes
+- Hacer una campaña para concientizar a los otros conductores a prestar atencion a las motocicletas, para evitar accidentes
 
 * **Tercer KPI:** Reducir un 15% la tasa de accidentes mortales en siniestros viales sobre una interseccion en los últimos seis meses, en CABA, en comparación a la tasa de accidentes mortales en siniestros viales sobre una interseccion del semestre anterior
 
