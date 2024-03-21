@@ -51,13 +51,14 @@ Se propone continuar con las medidas que se estan realizando, y seguir disminuye
 
 **Observaciones:**
 
-* En el segundo KPI se notó totalmente lo contrario a la meta propuesta, ya que la cantidad de victimas en moticicleta aumentó un 42%, esto suponemos que se debe mas que nada a la cuarentena del año 2020, donde la gente casi ni salía a la calle, ya que hacían todo remoto (colegios, trabajo) y el trafico era extremadamente bajo.
+* En el segundo KPI se notó totalmente lo contrario a la meta propuesta, ya que la cantidad de victimas en moticicleta aumentó un 42%. Esto suponemos que se debe mas que nada a la cuarentena del año 2020, donde la gente casi ni salía a la calle, ya que hacían todo remoto (colegios, trabajo) y el trafico era extremadamente bajo.
 
-Para esto proponemos que se continuen los esfuerzos por reducirlo y ver las mediciones en el siguiente año, para poder observar realmente cual es el cambio sin que esté el sesgo de haber pasado por una cuarentena
+Para esto proponemos que se continuen los esfuerzos por reducirlo y ver las mediciones en el siguiente año, para poder observar realmente cual es el cambio sin que esté el sesgo de haber pasado por una cuarentena.
 
-Se sugiere hacer mas controles a las motocicletas, multas por no usar casco y aumentar las señalizaciones
+Se sugiere: 
+* Hacer mas controles a las motocicletas, multas por no usar casco y aumentar las señalizaciones
 
-Se sugiere tambien hacer una campaña para concientizar a los otros conductores a prestar atencion a las motocicletas, para evitar accidentes
+* Hacer una campaña para concientizar a los otros conductores a prestar atencion a las motocicletas, para evitar accidentes
 
 * **Tercer KPI:** Reducir un 15% la tasa de accidentes mortales en siniestros viales sobre una interseccion en los últimos seis meses, en CABA, en comparación a la tasa de accidentes mortales en siniestros viales sobre una interseccion del semestre anterior
 
@@ -67,5 +68,7 @@ Se sugiere tambien hacer una campaña para concientizar a los otros conductores 
 
 En el KPI se notó que se cumplió el objetivo, ya que se llegó a un 39% en vez del 15% propuesto, reduciendo efectivvamente la tasa de accidentes mortales en intersecciones.
 
-Se propone continuar con las medidas que se estan realizando, y seguir disminuyendo este numero
+Se propone continuar con las medidas que se estan realizando, para seguir disminuyendo este numero.
+
+
 
